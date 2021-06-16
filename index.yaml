@@ -101,6 +101,37 @@ entries:
     urls:
     - https://github.com/tjxecp/ecp-charts/releases/download/ecp-adm-0.1.1/ecp-adm-0.1.1.tgz
     version: 0.1.1
+  ecp-idp-frontend:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-16T09:41:28.16692-04:00"
+    description: A Helm chart for Kubernetes
+    digest: b5601af20edd4a7d8770af2579d29c1cd03032413cf1ecd082b7ffa7a84fc2c6
+    name: ecp-idp-frontend
+    type: application
+    urls:
+    - https://github.com/tjxecp/ecp-charts/releases/download/ecp-idp-frontend-1.0.1/ecp-idp-frontend-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-16T09:41:28.032434-04:00"
+    description: A Helm chart for Kubernetes
+    digest: 0cbb031dca5df2a3e2f0a5cdc02dba5043922a0012de642025ec614106397b05
+    name: ecp-idp-frontend
+    type: application
+    urls:
+    - https://github.com/tjxecp/ecp-charts/releases/download/ecp-idp-frontend-1.0.0/ecp-idp-frontend-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-06-16T09:41:27.907187-04:00"
+    description: A Helm chart for Kubernetes
+    digest: c193e3bba9d5c858521093b9290978cdc75f3f1b40461f5df2137394506d3d55
+    name: ecp-idp-frontend
+    type: application
+    urls:
+    - https://github.com/tjxecp/ecp-charts/releases/download/ecp-idp-frontend-0.1.0/ecp-idp-frontend-0.1.0.tgz
+    version: 0.1.0
   ecp-webhook:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -207,4 +238,4 @@ entries:
     urls:
     - https://github.com/tjxecp/ecp-charts/releases/download/ecp-webhook-0.1.9/ecp-webhook-0.1.9.tgz
     version: 0.1.9
-generated: "2021-06-16T08:43:24.214906-04:00"
+generated: "2021-06-16T09:41:28.167012-04:00"
