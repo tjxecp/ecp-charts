@@ -104,6 +104,16 @@ entries:
   ecp-idp-frontend:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-06-17T10:58:55.687718-04:00"
+    description: A Helm chart for the ECP IdP DB Frontend
+    digest: 6653e46bcfab622dddff9d447c79dc73a2da96beb15b5bb424bbf6bd676e75c5
+    name: ecp-idp-frontend
+    type: application
+    urls:
+    - https://github.com/tjxecp/ecp-charts/releases/download/ecp-idp-frontend-1.0.6/ecp-idp-frontend-1.0.6.tgz
+    version: 1.0.6
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-06-17T09:13:11.265501-04:00"
     description: A Helm chart for the ECP IdP DB Frontend
     digest: 1ddecbcf7067d34d70932790efd709e97ed03b1d1e6474e11fa70bcf048e874c
@@ -248,4 +258,4 @@ entries:
     urls:
     - https://github.com/tjxecp/ecp-charts/releases/download/ecp-webhook-0.1.9/ecp-webhook-0.1.9.tgz
     version: 0.1.9
-generated: "2021-06-17T09:13:11.265573-04:00"
+generated: "2021-06-17T10:58:55.687785-04:00"
