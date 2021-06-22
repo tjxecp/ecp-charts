@@ -3,6 +3,16 @@ entries:
   ecp-adm:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-06-22T13:14:35.00151-04:00"
+    description: A Helm chart for the ECP Admission Controller Webhook
+    digest: 85d1bac3535855101ca1d490a84b9e7f86fd23d7db49df09c62bee8eec6ecc4a
+    name: ecp-adm
+    type: application
+    urls:
+    - https://github.com/tjxecp/ecp-charts/releases/download/ecp-adm-1.0.20/ecp-adm-1.0.20.tgz
+    version: 1.0.20
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-06-22T13:13:55.828763-04:00"
     description: A Helm chart for the ECP Admission Controller Webhook
     digest: 2b88b65010e9c29eb8512bb0ca41660d2c535aee765ef832c99e23ed141869bb
@@ -465,6 +475,17 @@ entries:
   ecp-webhook:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-06-22T13:14:37.895427-04:00"
+    description: A Helm chart for the ECP Admission Controller Validating/Mutating
+      Controller
+    digest: 8f5f2e49b2197d9a7399c90fa8bb9ed4cf45f0bc83d93726a5d57e4a4e523e53
+    name: ecp-webhook
+    type: application
+    urls:
+    - https://github.com/tjxecp/ecp-charts/releases/download/ecp-webhook-1.0.20/ecp-webhook-1.0.20.tgz
+    version: 1.0.20
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-06-22T13:13:59.619541-04:00"
     description: A Helm chart for the ECP Admission Controller Validating/Mutating
       Controller
@@ -689,4 +710,4 @@ entries:
     urls:
     - https://github.com/tjxecp/ecp-charts/releases/download/ecp-webhook-0.1.9/ecp-webhook-0.1.9.tgz
     version: 0.1.9
-generated: "2021-06-22T13:14:01.030044-04:00"
+generated: "2021-06-22T13:14:38.726157-04:00"
